@@ -3,6 +3,7 @@
 This is a weather application built using [Flutter](https://flutter.dev/) to display current weather information.
 
 ## Features
+[weather_app_video.webm](https://github.com/AyushSinghAryan/flutter-weather-app/assets/100014110/6b5fcdc7-050b-4930-ace9-3cb0315433bd)
 
 - View current weather conditions based on user location.
 - Fetch weather data from a remote API.
