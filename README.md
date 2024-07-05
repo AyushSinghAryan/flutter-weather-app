@@ -1,17 +1,34 @@
-# open_weather_map
+# Weather App
 
-A new Flutter project.
+This is a weather application built using [Flutter](https://flutter.dev/) to display current weather information.
+
+## Features
+
+- View current weather conditions based on user location.
+- Fetch weather data from a remote API.
+- Display temperature, humidity, wind speed, and other relevant weather details.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+- [Flutter](https://flutter.dev/docs/get-started/install) installed on your machine.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Clone and Run
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# flutter-weather-app
+```bash
+# Clone the repository
+git clone https://github.com/AyushSinghAryan/flutter-weather-app.git
+
+# Navigate to the project directory
+cd flutter-weather-app
+
+# Open in VS Code
+code .
+
+# Open in Android Studio
+# Replace `android` with your project's actual Android folder name
+# open -a /Applications/Android\ Studio.app android
+
+# Run the app on an emulator or device
+flutter run
